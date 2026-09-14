@@ -13,7 +13,7 @@
 
 ## Packaging improvements
 
-* [ ] first PyPI publish must be **0.0.0+** (note existing PyPI **0.0.0.0** stub);
+* [ ] first PyPI publish of **0.0.0.1** (note existing PyPI **0.0.0.0** stub);
 
 
 <!-- ########################### end of file ########################### -->
