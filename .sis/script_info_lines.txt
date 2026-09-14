@@ -1,0 +1,2 @@
+Pantheios.Python is an efficient, expressive, flexible diagnostic logging library for Python
+Copyright (c) 2026, Matthew Wilson and Synesis Information Systems
